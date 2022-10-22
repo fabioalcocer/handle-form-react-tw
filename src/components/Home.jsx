@@ -1,6 +1,6 @@
 function Home () {
   return (
-    <div className='my-14 flex flex-col items-end gap-4 text-center md:text-left text-slate-100 md:flex-1 md:mr-10'>
+    <div className='my-14 flex flex-col items-end gap-4 text-center md:text-left text-slate-100 md:flex-1 mr-0 md:mr-10'>
       <h1 className='mb-2 text-3xl font-bold md:text-5xl max-w-xl'>
         Learn to code by watching others
       </h1>
